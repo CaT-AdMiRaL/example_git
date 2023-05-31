@@ -8,3 +8,8 @@ for i in range(10):
 
 if a == 3:
     print("nice to meet you")
+else:
+    print("not nice to meet you")
+
+
+    
